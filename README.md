@@ -10,6 +10,10 @@ I made it since there didn't seem to be any public extensions that did this and 
 
 ## Changelog
 
+### 2.1
+
+- Updates manifest description.
+
 ### 2.0
 
 - Now blocks AI summaries (and chapter previews by extension) on the search page.

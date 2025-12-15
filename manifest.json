@@ -11,7 +11,7 @@
     }
   },
   "permissions": [],
-  "description": "Hides all AI summaries on the YouTube watch page.",
+  "description": "Hides all AI summaries on YouTube.",
 
   "icons": {
     "48": "icons/no-sum-48.png",
