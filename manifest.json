@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "No YouTube AI Summary",
+  "version": "1.0",
+
+  "description": "Hides all AI summaries on the YouTube watch page.",
+
+  "icons": {
+    "48": "icons/no-sum-48.png",
+    "96": "icons/no-sum-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/watch*"],
+      "js": ["noYoutubeAiSummary.js"]
+    }
+  ]
+}
