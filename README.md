@@ -1,4 +1,6 @@
-# No YouTube AI Summary
+# No YouTube AI Summary (FireFox)
+
+[🌐Check out the Google Chrome Version](https://github.com/teleported-cat/no-youtube-ai-summary-chrome)
 
 A very simple FireFox extension that hides all AI summaries on the YouTube watch & search pages. That's it. Nothing more, nothing less.
 
