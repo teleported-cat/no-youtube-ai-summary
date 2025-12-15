@@ -10,6 +10,14 @@ I made it since there didn't seem to be any public extensions that did this and 
 
 ## Changelog
 
+### 3.0
+
+- Adds support for mobile. (m.youtube.com)
+
+### 2.2
+
+- Fixes bug where loading youtube from a page that isn't watch or search results doesn't block summaries.
+
 ### 2.1
 
 - Updates manifest description.
