@@ -31,6 +31,7 @@ function waitForElements(selector, callback) {
 /* 
  * Execution starts here 
  */
+console.log("[No YouTube AI Summary] Loaded!");
 
 waitForElements('#expandable-metadata', (elements) => {
     elements.forEach(el => {

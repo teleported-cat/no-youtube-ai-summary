@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "No YouTube AI Summary",
-  "version": "2.1",
+  "version": "2.2",
   "browser_specific_settings": {
     "gecko": {
       "id": "no-youtube-ai-summary@teleported-cat",
@@ -20,7 +20,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.youtube.com/watch*","*://*.youtube.com/results*"],
+      "matches": ["*://*.youtube.com/*"],
       "js": ["noYoutubeAiSummary.js"]
     }
   ]
